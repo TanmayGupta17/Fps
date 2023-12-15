@@ -15,3 +15,5 @@ Peek behind the curtain and witness how a shared gaming universe comes to life. 
 
 With just the essentials of Unity at our disposal, we've demonstrated that multiplayer gaming need not be daunting. Explore the power hidden within simplicity, paving the way for aspiring developers to create their interconnected worlds.
 
+**You can try this game by downloading the zip file provided above**
+
