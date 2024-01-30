@@ -1,19 +1,14 @@
 # Fps-game
 **Introduction**
 
-Welcome to our multiplayer gaming project, crafted entirely using the fundamental tools available in Unity. This repository stands as a testament to the possibilities of creating a vibrant multiplayer gaming experience without the need for complex frameworks or advanced tools. Our goal is to offer an entry point into the world of multiplayer game development by showcasing the foundational aspects in an accessible and educational manner.
-**Unveiling the Foundation:** 
+The game is a 3D multiplayer First-Person Shooter (FPS) where players use guns to eliminate opponents. The objective is to be the last player standing. Key features include player controls for movement and shooting, a variety of weapons, a cover system using blocks or obstacles, and well-designed maps with strategic elements.
 
-Discovering Multiplayer Possibilities
-Dive into this repository, where we uncover the building blocks of multiplayer gaming magic. Here, we've crafted an interactive playground using Unity's basic tools to showcase the fascinating world of multiplayer experiences.
+**Installation**
 
-**A Peek Behind the Scenes**
-
-Peek behind the curtain and witness how a shared gaming universe comes to life. We've woven together the threads of networking and collaboration, painting a canvas that invites exploration and learning.
-
-**Simple Tools, Boundless Potential**
-
-With just the essentials of Unity at our disposal, we've demonstrated that multiplayer gaming need not be daunting. Explore the power hidden within simplicity, paving the way for aspiring developers to create their interconnected worlds.
+1. Clone the repository to your local machine using Git or download the ZIP file and extract it.
+2. Open Unity Hub and click on "Add" to add the downloaded repository as a project in Unity.
+3. Select the folder where you cloned or extracted the repository.
+4. Once the project is added to Unity Hub, click on it to open the project in Unity.
 
 **You can try this game by downloading the zip file provided above**
 
