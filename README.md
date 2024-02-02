@@ -1,7 +1,7 @@
 # Fps-game
 **Introduction**
 
-The game is a 3D multiplayer First-Person Shooter (FPS) where players use guns to eliminate opponents. The objective is to be the last player standing. Key features include player controls for movement and shooting, a variety of weapons, a cover system using blocks or obstacles, and well-designed maps with strategic elements.
+The game is a 3D multiplayer First-Person Shooter (FPS) where players use guns to eliminate opponents. The objective is to be the last player standing. Key features include player controls for movement and shooting, a cover system using blocks or obstacles, and well-designed map.
 
 **Installation**
 
